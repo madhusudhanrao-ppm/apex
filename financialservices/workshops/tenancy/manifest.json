@@ -31,20 +31,20 @@
       "filename": "../../setup/setup.md"
     },
     {
-      "title": "Lab 3: Detecting Money Laundering and Money Mules",
+      "title": "Lab 3: Fraud Detection and Prevention",
       "filename": "../../create-graph/create-graph.md"
     },
     {
-      "title": "Lab 4: Query Data",
-      "filename": "../../query/query.md"
+      "title": "Lab 4: Anomalies in Transactions",
+      "filename": "../../anomalies/anomalies.md"
     },
     {
-      "title": "Lab 5: Tables in LiveLabs",
-      "filename": "../../tables/tables.md"
+      "title": "Lab 5: Retrieval Augmented Generation",
+      "filename": "../../rag/rag.md"
     },
     {
-      "title": "Lab 6: Variables in LiveLabs",
-      "filename": "../../variables/variables.md"
+      "title": "Lab 6: Transaction Review Process",
+      "filename": "../../process/process.md"
     },
     {
       "title": "Need Help?",

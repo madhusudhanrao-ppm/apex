@@ -1,4 +1,4 @@
-# Title of the Lab
+# Anomaly Detection in Transactions
 
 ## Introduction
 

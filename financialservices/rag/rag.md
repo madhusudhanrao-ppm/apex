@@ -1,4 +1,4 @@
-# Tables in LiveLabs
+# Retrieval Augmented Generation
 
 ## Tables are cool!
 
