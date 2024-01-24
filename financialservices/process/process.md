@@ -29,48 +29,53 @@ This lab assumes you have:
 
 Create Transaction Review Process
 
-   1. Add the following to your manifest.json in the top section:
+   1. login to Oracle Process Automation and click on create application, select **Create process application**
    ![Create Table](images/opa-01.png " ")
-   2. A
+   2. Provide title and version tag
    ![Create Table](images/opa-02.png " ")
-   3. A
-   ![Create Table](images/opa-00.png " ")  
-   4. A
+   3. The process is as shown below, the process flow will be as follows 
+      * Service call to get latest transaction from Oracle integration cloud. 
+      * Human task to review the latest transaction in a form
+      * Human reviewer can Approve or Reject a given transaction based on data available or can also analyze customer information in AI for Financial Services application, before making a decision on the transaction.
+      * If the task is Approved or Rejected this makes call to another Integration service that updates the record with an updated Transaction status
+   4. Complete process flow
+   ![Create Table](images/opa-00.png " ") 
+   5. Under properties map to integration service to get latest OnHold transaction
    ![Create Table](images/opa-03.png " ")
-   5. A
+   6. Under properties map to integration service to update the selected OnHold transaction with new status such as Approved or Rejected
    ![Create Table](images/opa-04.png " ")
-   6. A
+   7. Rejected service call will also invoke the same service as approved task
    ![Create Table](images/opa-05.png " ")
-   7. A
+   8. User Task is mapped to a Form UI where all the form elements such as Customer Name, Category of purchase, Transaction amount etc. are seen
    ![Create Table](images/opa-06.png " ")
-   8. A
+   9. Start event will also use the same form as above
    ![Create Table](images/opa-07.png " ")
-   9. A
+   10. Map Output data objects from source to destination
    ![Create Table](images/opa-08.png " ")
-   10. A
+   11. Map Input data objects from source to destination
    ![Create Table](images/opa-09.png " ")
-   11. A
+   12. Data mapping from Integration service invocation to process UI form.
    ![Create Table](images/opa-10.png " ")
-   12. A
+   13. Output Mapping
    ![Create Table](images/opa-11.png " ")
-   13. A
+   14. Process to Form mapping
    ![Create Table](images/opa-12.png " ")
-   14. A
+   15. Map Task outcome to form object
    ![Create Table](images/opa-13.png " ")
-   15. A
+   16. Update mapper to integration service invocation to update data
    ![Create Table](images/opa-14.png " ")
-   16. A
+   17. Update mapper to integration service invocation to update data
    ![Create Table](images/opa-15.png " ")
-   17. A
+   18. Decision activity based on reject outcome
    ![Create Table](images/opa-16.png " ")
-   18. A
+   19. Service Invocation to get lastest transaction which OnHold.
    ![Create Table](images/opa-17.png " ")
 
 ## Run Transaction Review Process
 
-Add the following to your manifest.json in the top section:
+Run the Manual transaction review process and check updated status 
 
-   1. A
+   1. Review end to end process flow.
    ![Create Table](images/opa-17.png " ")
 
 ## Learn More
