@@ -1,4 +1,4 @@
-# Title of the Lab
+# Setup the Environment
 
 ## Introduction
 

@@ -1,0 +1,14 @@
+{
+  "modelId": "cohere.command-light",
+  "modelVersion": "15.6",
+  "inferenceResponse": {
+    "runtimeType": "COHERE",
+    "generatedTexts": [
+      {
+        "id": "f9f9e20b-070a-4d6d-9cf1-35e0ac5052f9",
+        "text": " Generative AI refers to a type of artificial intelligence that is capable of generating new data that is similar to a given sample or dataset. It utilizes techniques such as machine learning and deep learning to create synthetic content, models, or representations that mimic the patterns"
+      }
+    ],
+    "timeCreated": "2024-01-24T13:04:42.512Z"
+  }
+}

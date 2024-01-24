@@ -27,23 +27,20 @@
       "filename": "../../adb-provision/adb-provision.md"
     },
     {
-      "title": "Lab 2: Setup the Environment",
-      "filename": "../../setup/setup.md"
-    },
+      "title": "Lab 2: Oracle APEX How-tos",
+      "description": "APEX Basics used in this workshop",
+      "filename": "../../apex/apex.md"
+    }, 
     {
       "title": "Lab 3: Fraud Detection and Prevention",
       "filename": "../../create-graph/create-graph.md"
     },
     {
-      "title": "Lab 4: Anomalies in Transactions",
-      "filename": "../../anomalies/anomalies.md"
+      "title": "Lab 4: Transaction Integration",
+      "filename": "../../integration/integration.md"
     },
     {
-      "title": "Lab 5: Retrieval Augmented Generation",
-      "filename": "../../rag/rag.md"
-    },
-    {
-      "title": "Lab 6: Transaction Review Process",
+      "title": "Lab 5: Transaction Review Process",
       "filename": "../../process/process.md"
     },
     {
