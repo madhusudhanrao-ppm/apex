@@ -75,8 +75,32 @@ Create Transaction Review Process
 
 Run the Manual transaction review process and check updated status 
 
-   1. Review end to end process flow.
-   ![Create Table](images/opa-17.png " ")
+   1. Review transaction dashboard, created from transaction data
+   ![Create Table](images/opa-18.png " ")
+   2. Login to Oracle Process Automation, Click on the transaction review Application.
+   ![Create Table](images/opa-19.png " ")
+   3. Click on the transaction review Process.
+   ![Create Table](images/opa-20.png " ")
+   4. Click on **Activate** button
+   ![Create Table](images/opa-21.png " ")
+   5. Click on **Test in Workspace**
+   ![Create Table](images/opa-22.png " ")
+   6. Click on **Start Event**
+   ![Create Table](images/opa-23.png " ")
+   7. Provide latest transaction id as in Oracle APEX Dashboard. and hit **Submit** button
+   ![Create Table](images/opa-24.png " ")
+   8. On the confirmation screen, click on **Open Now**
+   ![Create Table](images/opa-25.png " ")
+   9. Click on **Open** Task to view the task form, with all transaction related data.
+   ![Create Table](images/opa-26.png " ")
+   10. Transaction reviewer can Approve or Reject a transaction. They can also review customer profile before taking decision on transaction. 
+   ![Create Table](images/opa-27.png " ")
+   11. Review **Audit** tab
+   ![Create Table](images/opa-28.png " ")
+   12. Close the window
+   ![Create Table](images/opa-29.png " ")
+   13. This will update the transaction in database table with Approved or Rejected status, which can be viewed in Oracle APEX Dashboard as shown in green row.
+   ![Create Table](images/opa-30.png " ") 
 
 ## Learn More
 

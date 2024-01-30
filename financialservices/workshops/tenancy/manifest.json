@@ -30,7 +30,7 @@
       "title": "Lab 2: Oracle APEX How-tos",
       "description": "APEX Basics used in this workshop",
       "filename": "../../apex/apex.md"
-    }, 
+    },
     {
       "title": "Lab 3: Fraud Detection and Prevention",
       "filename": "../../create-graph/create-graph.md"
@@ -42,6 +42,10 @@
     {
       "title": "Lab 5: Transaction Review Process",
       "filename": "../../process/process.md"
+    },
+    {
+      "title": "Lab 6: Detect Transaction Anomalies",
+      "filename": "../../ai-anomaly-detection/ai-anomaly-detection.md"
     },
     {
       "title": "Need Help?",
