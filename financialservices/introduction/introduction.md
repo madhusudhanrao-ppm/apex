@@ -10,17 +10,10 @@ During this process, transaction anomalies are detected, and the cards used for 
 
 The Workshop also covers other financial services use cases, such as detecting money laundering and money mules in the system.
 
-Estimated Workshop Time: 3 Hours  
+Estimated Workshop Time: 5 Hours  
 
 *Estimated Workshop Time can vary depending upon the Labs that you choose to do, and all labs from lab 4 are Optional.*
-
-   [](youtube:R7UIFywtkno)
-
-<!--
-*You may add an option video, using this format: [](youtube:YouTube video id)*
-
-   [](youtube:zNKxJjkq0Pw) -->
-
+  
 ### Objectives
 
 In this workshop, you will learn how to:
@@ -37,8 +30,12 @@ In this workshop, you will learn how to:
 This lab assumes you have:
 * An Oracle account
 * Basic knowledge of Oracle APEX and PL/SQL
+ 
+### AI for Financial Services - Complete Demo and Architecture video
 
-In general, the Introduction does not have Steps.
+[Demo video on AI for Financial Services](youtube:R7UIFywtkno:large)
+
+![Architecture](images/ai-for-fs-architecture.png " ")
 
 ## Learn More
 

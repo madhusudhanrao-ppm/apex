@@ -4,7 +4,7 @@
 
 Learn many commonly used APEX skills in this lab, this is optional lab you can skip.
 
-Estimated Time: 5 minutes
+Estimated Time: 30 minutes
 
 ### Objectives
 

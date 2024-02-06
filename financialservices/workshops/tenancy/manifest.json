@@ -1,14 +1,5 @@
 {
-  "workshoptitle": "AI for Financial Services",
-  "include": {
-    "starter-file.sql": "../../data-load/files/starter-file.sql",
-    "sample.json": "../../data-load/files/sample.json",
-    "step2.md": "../../data-load/files/step2.md"
-  },
-  "variables": [
-    "../../variables/variables.json",
-    "../../variables/variables-in-another-file.json"
-  ],
+  "workshoptitle": "AI for Financial Services", 
   "help": "livelabs-help-db_us@oracle.com",
   "tutorials": [
     {
@@ -46,6 +37,10 @@
     {
       "title": "Lab 6: Detect Transaction Anomalies",
       "filename": "../../ai-anomaly-detection/ai-anomaly-detection.md"
+    },
+    {
+      "title": "Lab 7: Database chatbots with SQL Dialog Skills",
+      "filename": "../../ai-oda-create/ai-oda-create.md"
     },
     {
       "title": "Need Help?",
